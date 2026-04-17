@@ -1,0 +1,1052 @@
+[2026-04-16 13:03:11.153296] [gNB 0][ 753.14] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:11.248165] [gNB 0][ 763. 4] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:11.313218] [gNB 0][ 769.14] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:11.563222] [gNB 0][ 794.14] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:11.818143] [gNB 0][ 820. 4] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:11.888163] [gNB 0][ 827. 4] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:12.018141] [gNB 0][ 840. 4] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:12.248161] [gNB 0][ 863. 4] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:13.133147] [gNB 0][ 951.14] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 6 bytes 
+
+[2026-04-16 13:03:14.248152] [gNB 0][  39. 4] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:15.253167] [gNB 0][ 139.14] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:16.371154] [gNB 0][ 251.10] UE 1244: LCID 4: 1432 bytes , total DL buffer size (For all LCIDs): 1432 bytes 
+
+[2026-04-16 13:03:16.381706] [gNB 0][ 252.11] UE 1244: LCID 4: 8843 bytes , total DL buffer size (For all LCIDs): 8843 bytes 
+
+[2026-04-16 13:03:16.382205] [gNB 0][ 252.12] UE 1244: LCID 4: 6685 bytes , total DL buffer size (For all LCIDs): 6685 bytes 
+
+[2026-04-16 13:03:16.382721] [gNB 0][ 252.13] UE 1244: LCID 4: 4521 bytes , total DL buffer size (For all LCIDs): 4521 bytes 
+
+[2026-04-16 13:03:16.383229] [gNB 0][ 252.14] UE 1244: LCID 4: 2354 bytes , total DL buffer size (For all LCIDs): 2354 bytes 
+
+[2026-04-16 13:03:16.383717] [gNB 0][ 252.15] UE 1244: LCID 4: 190 bytes , total DL buffer size (For all LCIDs): 190 bytes 
+
+[2026-04-16 13:03:16.411153] [gNB 0][ 255.10] UE 1244: LCID 4: 9000 bytes , total DL buffer size (For all LCIDs): 9000 bytes 
+
+[2026-04-16 13:03:16.411657] [gNB 0][ 255.11] UE 1244: LCID 4: 6842 bytes , total DL buffer size (For all LCIDs): 6842 bytes 
+
+[2026-04-16 13:03:16.412153] [gNB 0][ 255.12] UE 1244: LCID 4: 4678 bytes , total DL buffer size (For all LCIDs): 4678 bytes 
+
+[2026-04-16 13:03:16.412663] [gNB 0][ 255.13] UE 1244: LCID 4: 2511 bytes , total DL buffer size (For all LCIDs): 2511 bytes 
+
+[2026-04-16 13:03:16.413163] [gNB 0][ 255.14] UE 1244: LCID 4: 347 bytes , total DL buffer size (For all LCIDs): 347 bytes 
+
+[2026-04-16 13:03:16.443659] [gNB 0][ 258.15] UE 1244: LCID 4: 9001 bytes , total DL buffer size (For all LCIDs): 9001 bytes 
+
+[2026-04-16 13:03:16.444139] [gNB 0][ 258.16] UE 1244: LCID 4: 6843 bytes , total DL buffer size (For all LCIDs): 6843 bytes 
+
+[2026-04-16 13:03:16.444636] [gNB 0][ 258.17] UE 1244: LCID 4: 4679 bytes , total DL buffer size (For all LCIDs): 4679 bytes 
+
+[2026-04-16 13:03:16.446134] [gNB 0][ 259. 0] UE 1244: LCID 4: 3855 bytes , total DL buffer size (For all LCIDs): 3855 bytes 
+
+[2026-04-16 13:03:16.446632] [gNB 0][ 259. 1] UE 1244: LCID 4: 1691 bytes , total DL buffer size (For all LCIDs): 1691 bytes 
+
+[2026-04-16 13:03:16.476652] [gNB 0][ 262. 1] UE 1244: LCID 4: 3746 bytes , total DL buffer size (For all LCIDs): 3746 bytes 
+
+[2026-04-16 13:03:16.477152] [gNB 0][ 262. 2] UE 1244: LCID 4: 6647 bytes , total DL buffer size (For all LCIDs): 6647 bytes 
+
+[2026-04-16 13:03:16.477664] [gNB 0][ 262. 3] UE 1244: LCID 4: 4291 bytes , total DL buffer size (For all LCIDs): 4291 bytes 
+
+[2026-04-16 13:03:16.478162] [gNB 0][ 262. 4] UE 1244: LCID 4: 1935 bytes , total DL buffer size (For all LCIDs): 1935 bytes 
+
+[2026-04-16 13:03:16.511202] [gNB 0][ 265.10] UE 1244: LCID 4: 9000 bytes , total DL buffer size (For all LCIDs): 9000 bytes 
+
+[2026-04-16 13:03:16.511707] [gNB 0][ 265.11] UE 1244: LCID 4: 6647 bytes , total DL buffer size (For all LCIDs): 6647 bytes 
+
+[2026-04-16 13:03:16.512202] [gNB 0][ 265.12] UE 1244: LCID 4: 4291 bytes , total DL buffer size (For all LCIDs): 4291 bytes 
+
+[2026-04-16 13:03:16.512721] [gNB 0][ 265.13] UE 1244: LCID 4: 1935 bytes , total DL buffer size (For all LCIDs): 1935 bytes 
+
+[2026-04-16 13:03:16.543725] [gNB 0][ 268.15] UE 1244: LCID 4: 11656 bytes , total DL buffer size (For all LCIDs): 11656 bytes 
+
+[2026-04-16 13:03:16.544200] [gNB 0][ 268.16] UE 1244: LCID 4: 9303 bytes , total DL buffer size (For all LCIDs): 9303 bytes 
+
+[2026-04-16 13:03:16.544699] [gNB 0][ 268.17] UE 1244: LCID 4: 6947 bytes , total DL buffer size (For all LCIDs): 6947 bytes 
+
+[2026-04-16 13:03:16.546202] [gNB 0][ 269. 0] UE 1244: LCID 4: 6078 bytes , total DL buffer size (For all LCIDs): 6078 bytes 
+
+[2026-04-16 13:03:16.546701] [gNB 0][ 269. 1] UE 1244: LCID 4: 3722 bytes , total DL buffer size (For all LCIDs): 3722 bytes 
+
+[2026-04-16 13:03:16.547201] [gNB 0][ 269. 2] UE 1244: LCID 4: 1366 bytes , total DL buffer size (For all LCIDs): 1366 bytes 
+
+[2026-04-16 13:03:16.576622] [gNB 0][ 272. 1] UE 1244: LCID 4: 1397 bytes , total DL buffer size (For all LCIDs): 1397 bytes 
+
+[2026-04-16 13:03:16.577114] [gNB 0][ 272. 2] UE 1244: LCID 4: 15707 bytes , total DL buffer size (For all LCIDs): 15707 bytes 
+
+[2026-04-16 13:03:16.577644] [gNB 0][ 272. 3] UE 1244: LCID 4: 13222 bytes , total DL buffer size (For all LCIDs): 13222 bytes 
+
+[2026-04-16 13:03:16.578126] [gNB 0][ 272. 4] UE 1244: LCID 4: 10740 bytes , total DL buffer size (For all LCIDs): 10740 bytes 
+
+[2026-04-16 13:03:16.578740] [gNB 0][ 272. 5] UE 1244: LCID 4: 8258 bytes , total DL buffer size (For all LCIDs): 8258 bytes 
+
+[2026-04-16 13:03:16.579211] [gNB 0][ 272. 6] UE 1244: LCID 4: 5776 bytes , total DL buffer size (For all LCIDs): 5776 bytes 
+
+[2026-04-16 13:03:16.579709] [gNB 0][ 272. 7] UE 1244: LCID 4: 3294 bytes , total DL buffer size (For all LCIDs): 3294 bytes 
+
+[2026-04-16 13:03:16.581207] [gNB 0][ 272.10] UE 1244: LCID 4: 2361 bytes , total DL buffer size (For all LCIDs): 2361 bytes 
+
+[2026-04-16 13:03:16.611122] [gNB 0][ 275.10] UE 1244: LCID 4: 1022 bytes , total DL buffer size (For all LCIDs): 1022 bytes 
+
+[2026-04-16 13:03:16.643650] [gNB 0][ 278.15] UE 1244: LCID 4: 12692 bytes , total DL buffer size (For all LCIDs): 12692 bytes 
+
+[2026-04-16 13:03:16.644137] [gNB 0][ 278.16] UE 1244: LCID 4: 10771 bytes , total DL buffer size (For all LCIDs): 10771 bytes 
+
+[2026-04-16 13:03:16.644636] [gNB 0][ 278.17] UE 1244: LCID 4: 8289 bytes , total DL buffer size (For all LCIDs): 8289 bytes 
+
+[2026-04-16 13:03:16.646133] [gNB 0][ 279. 0] UE 1244: LCID 4: 7356 bytes , total DL buffer size (For all LCIDs): 7356 bytes 
+
+[2026-04-16 13:03:16.646631] [gNB 0][ 279. 1] UE 1244: LCID 4: 4874 bytes , total DL buffer size (For all LCIDs): 4874 bytes 
+
+[2026-04-16 13:03:16.647131] [gNB 0][ 279. 2] UE 1244: LCID 4: 2392 bytes , total DL buffer size (For all LCIDs): 2392 bytes 
+
+[2026-04-16 13:03:16.676651] [gNB 0][ 282. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:16.677151] [gNB 0][ 282. 2] UE 1244: LCID 4: 5405 bytes , total DL buffer size (For all LCIDs): 5405 bytes 
+
+[2026-04-16 13:03:16.677663] [gNB 0][ 282. 3] UE 1244: LCID 4: 2665 bytes , total DL buffer size (For all LCIDs): 2665 bytes 
+
+[2026-04-16 13:03:16.711202] [gNB 0][ 285.10] UE 1244: LCID 4: 17475 bytes , total DL buffer size (For all LCIDs): 17475 bytes 
+
+[2026-04-16 13:03:16.711702] [gNB 0][ 285.11] UE 1244: LCID 4: 14741 bytes , total DL buffer size (For all LCIDs): 14741 bytes 
+
+[2026-04-16 13:03:16.712209] [gNB 0][ 285.12] UE 1244: LCID 4: 12001 bytes , total DL buffer size (For all LCIDs): 12001 bytes 
+
+[2026-04-16 13:03:16.712713] [gNB 0][ 285.13] UE 1244: LCID 4: 9261 bytes , total DL buffer size (For all LCIDs): 9261 bytes 
+
+[2026-04-16 13:03:16.713209] [gNB 0][ 285.14] UE 1244: LCID 4: 6521 bytes , total DL buffer size (For all LCIDs): 6521 bytes 
+
+[2026-04-16 13:03:16.713715] [gNB 0][ 285.15] UE 1244: LCID 4: 3781 bytes , total DL buffer size (For all LCIDs): 3781 bytes 
+
+[2026-04-16 13:03:16.714203] [gNB 0][ 285.16] UE 1244: LCID 4: 1041 bytes , total DL buffer size (For all LCIDs): 1041 bytes 
+
+[2026-04-16 13:03:16.714655] [gNB 0][ 285.17] UE 1244: LCID 4: 1041 bytes , total DL buffer size (For all LCIDs): 1041 bytes 
+
+[2026-04-16 13:03:16.716155] [gNB 0][ 286. 0] UE 1244: LCID 4: 1041 bytes , total DL buffer size (For all LCIDs): 1041 bytes 
+
+[2026-04-16 13:03:16.716651] [gNB 0][ 286. 1] UE 1244: LCID 4: 1041 bytes , total DL buffer size (For all LCIDs): 1041 bytes 
+
+[2026-04-16 13:03:16.743728] [gNB 0][ 288.15] UE 1244: LCID 4: 8190 bytes , total DL buffer size (For all LCIDs): 8190 bytes 
+
+[2026-04-16 13:03:16.744202] [gNB 0][ 288.16] UE 1244: LCID 4: 5456 bytes , total DL buffer size (For all LCIDs): 5456 bytes 
+
+[2026-04-16 13:03:16.744701] [gNB 0][ 288.17] UE 1244: LCID 4: 2716 bytes , total DL buffer size (For all LCIDs): 2716 bytes 
+
+[2026-04-16 13:03:16.746202] [gNB 0][ 289. 0] UE 1244: LCID 4: 1703 bytes , total DL buffer size (For all LCIDs): 1703 bytes 
+
+[2026-04-16 13:03:16.776631] [gNB 0][ 292. 1] UE 1244: LCID 4: 142 bytes , total DL buffer size (For all LCIDs): 142 bytes 
+
+[2026-04-16 13:03:16.777113] [gNB 0][ 292. 2] UE 1244: LCID 4: 1628 bytes , total DL buffer size (For all LCIDs): 1628 bytes 
+
+[2026-04-16 13:03:16.811121] [gNB 0][ 295.10] UE 1244: LCID 4: 13619 bytes , total DL buffer size (For all LCIDs): 13619 bytes 
+
+[2026-04-16 13:03:16.811650] [gNB 0][ 295.11] UE 1244: LCID 4: 10567 bytes , total DL buffer size (For all LCIDs): 10567 bytes 
+
+[2026-04-16 13:03:16.812150] [gNB 0][ 295.12] UE 1244: LCID 4: 7509 bytes , total DL buffer size (For all LCIDs): 7509 bytes 
+
+[2026-04-16 13:03:16.812661] [gNB 0][ 295.13] UE 1244: LCID 4: 4454 bytes , total DL buffer size (For all LCIDs): 4454 bytes 
+
+[2026-04-16 13:03:16.813161] [gNB 0][ 295.14] UE 1244: LCID 4: 1396 bytes , total DL buffer size (For all LCIDs): 1396 bytes 
+
+[2026-04-16 13:03:16.843649] [gNB 0][ 298.15] UE 1244: LCID 4: 13947 bytes , total DL buffer size (For all LCIDs): 13947 bytes 
+
+[2026-04-16 13:03:16.844136] [gNB 0][ 298.16] UE 1244: LCID 4: 13358 bytes , total DL buffer size (For all LCIDs): 13358 bytes 
+
+[2026-04-16 13:03:16.844634] [gNB 0][ 298.17] UE 1244: LCID 4: 10300 bytes , total DL buffer size (For all LCIDs): 10300 bytes 
+
+[2026-04-16 13:03:16.846132] [gNB 0][ 299. 0] UE 1244: LCID 4: 9158 bytes , total DL buffer size (For all LCIDs): 9158 bytes 
+
+[2026-04-16 13:03:16.846630] [gNB 0][ 299. 1] UE 1244: LCID 4: 6103 bytes , total DL buffer size (For all LCIDs): 6103 bytes 
+
+[2026-04-16 13:03:16.847131] [gNB 0][ 299. 2] UE 1244: LCID 4: 3045 bytes , total DL buffer size (For all LCIDs): 3045 bytes 
+
+[2026-04-16 13:03:16.876650] [gNB 0][ 302. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:16.877150] [gNB 0][ 302. 2] UE 1244: LCID 4: 9729 bytes , total DL buffer size (For all LCIDs): 9729 bytes 
+
+[2026-04-16 13:03:16.877662] [gNB 0][ 302. 3] UE 1244: LCID 4: 6417 bytes , total DL buffer size (For all LCIDs): 6417 bytes 
+
+[2026-04-16 13:03:16.878160] [gNB 0][ 302. 4] UE 1244: LCID 4: 3102 bytes , total DL buffer size (For all LCIDs): 3102 bytes 
+
+[2026-04-16 13:03:16.911201] [gNB 0][ 305.10] UE 1244: LCID 4: 14359 bytes , total DL buffer size (For all LCIDs): 14359 bytes 
+
+[2026-04-16 13:03:16.911707] [gNB 0][ 305.11] UE 1244: LCID 4: 11050 bytes , total DL buffer size (For all LCIDs): 11050 bytes 
+
+[2026-04-16 13:03:16.912202] [gNB 0][ 305.12] UE 1244: LCID 4: 7738 bytes , total DL buffer size (For all LCIDs): 7738 bytes 
+
+[2026-04-16 13:03:16.912720] [gNB 0][ 305.13] UE 1244: LCID 4: 4423 bytes , total DL buffer size (For all LCIDs): 4423 bytes 
+
+[2026-04-16 13:03:16.913214] [gNB 0][ 305.14] UE 1244: LCID 4: 1111 bytes , total DL buffer size (For all LCIDs): 1111 bytes 
+
+[2026-04-16 13:03:16.943712] [gNB 0][ 308.15] UE 1244: LCID 4: 3732 bytes , total DL buffer size (For all LCIDs): 3732 bytes 
+
+[2026-04-16 13:03:16.944202] [gNB 0][ 308.16] UE 1244: LCID 4: 423 bytes , total DL buffer size (For all LCIDs): 423 bytes 
+
+[2026-04-16 13:03:16.976632] [gNB 0][ 312. 1] UE 1244: LCID 4: 1397 bytes , total DL buffer size (For all LCIDs): 1397 bytes 
+
+[2026-04-16 13:03:16.977115] [gNB 0][ 312. 2] UE 1244: LCID 4: 13703 bytes , total DL buffer size (For all LCIDs): 13703 bytes 
+
+[2026-04-16 13:03:16.977725] [gNB 0][ 312. 3] UE 1244: LCID 4: 10132 bytes , total DL buffer size (For all LCIDs): 10132 bytes 
+
+[2026-04-16 13:03:16.978222] [gNB 0][ 312. 4] UE 1244: LCID 4: 6564 bytes , total DL buffer size (For all LCIDs): 6564 bytes 
+
+[2026-04-16 13:03:16.978726] [gNB 0][ 312. 5] UE 1244: LCID 4: 2996 bytes , total DL buffer size (For all LCIDs): 2996 bytes 
+
+[2026-04-16 13:03:17.011151] [gNB 0][ 315.10] UE 1244: LCID 4: 21177 bytes , total DL buffer size (For all LCIDs): 21177 bytes 
+
+[2026-04-16 13:03:17.011649] [gNB 0][ 315.11] UE 1244: LCID 4: 17612 bytes , total DL buffer size (For all LCIDs): 17612 bytes 
+
+[2026-04-16 13:03:17.012149] [gNB 0][ 315.12] UE 1244: LCID 4: 14044 bytes , total DL buffer size (For all LCIDs): 14044 bytes 
+
+[2026-04-16 13:03:17.012660] [gNB 0][ 315.13] UE 1244: LCID 4: 10476 bytes , total DL buffer size (For all LCIDs): 10476 bytes 
+
+[2026-04-16 13:03:17.013160] [gNB 0][ 315.14] UE 1244: LCID 4: 6908 bytes , total DL buffer size (For all LCIDs): 6908 bytes 
+
+[2026-04-16 13:03:17.013658] [gNB 0][ 315.15] UE 1244: LCID 4: 3340 bytes , total DL buffer size (For all LCIDs): 3340 bytes 
+
+[2026-04-16 13:03:17.043649] [gNB 0][ 318.15] UE 1244: LCID 4: 16083 bytes , total DL buffer size (For all LCIDs): 16083 bytes 
+
+[2026-04-16 13:03:17.044135] [gNB 0][ 318.16] UE 1244: LCID 4: 12518 bytes , total DL buffer size (For all LCIDs): 12518 bytes 
+
+[2026-04-16 13:03:17.044633] [gNB 0][ 318.17] UE 1244: LCID 4: 8950 bytes , total DL buffer size (For all LCIDs): 8950 bytes 
+
+[2026-04-16 13:03:17.046131] [gNB 0][ 319. 0] UE 1244: LCID 4: 7616 bytes , total DL buffer size (For all LCIDs): 7616 bytes 
+
+[2026-04-16 13:03:17.046629] [gNB 0][ 319. 1] UE 1244: LCID 4: 4048 bytes , total DL buffer size (For all LCIDs): 4048 bytes 
+
+[2026-04-16 13:03:17.047129] [gNB 0][ 319. 2] UE 1244: LCID 4: 480 bytes , total DL buffer size (For all LCIDs): 480 bytes 
+
+[2026-04-16 13:03:17.076650] [gNB 0][ 322. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:17.077149] [gNB 0][ 322. 2] UE 1244: LCID 4: 11270 bytes , total DL buffer size (For all LCIDs): 11270 bytes 
+
+[2026-04-16 13:03:17.077660] [gNB 0][ 322. 3] UE 1244: LCID 4: 7446 bytes , total DL buffer size (For all LCIDs): 7446 bytes 
+
+[2026-04-16 13:03:17.078160] [gNB 0][ 322. 4] UE 1244: LCID 4: 3625 bytes , total DL buffer size (For all LCIDs): 3625 bytes 
+
+[2026-04-16 13:03:17.111200] [gNB 0][ 325.10] UE 1244: LCID 4: 1838 bytes , total DL buffer size (For all LCIDs): 1838 bytes 
+
+[2026-04-16 13:03:17.143712] [gNB 0][ 328.15] UE 1244: LCID 4: 11437 bytes , total DL buffer size (For all LCIDs): 11437 bytes 
+
+[2026-04-16 13:03:17.144200] [gNB 0][ 328.16] UE 1244: LCID 4: 11869 bytes , total DL buffer size (For all LCIDs): 11869 bytes 
+
+[2026-04-16 13:03:17.144707] [gNB 0][ 328.17] UE 1244: LCID 4: 8045 bytes , total DL buffer size (For all LCIDs): 8045 bytes 
+
+[2026-04-16 13:03:17.146208] [gNB 0][ 329. 0] UE 1244: LCID 4: 6618 bytes , total DL buffer size (For all LCIDs): 6618 bytes 
+
+[2026-04-16 13:03:17.146707] [gNB 0][ 329. 1] UE 1244: LCID 4: 2794 bytes , total DL buffer size (For all LCIDs): 2794 bytes 
+
+[2026-04-16 13:03:17.176614] [gNB 0][ 332. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:17.177211] [gNB 0][ 332. 2] UE 1244: LCID 4: 7902 bytes , total DL buffer size (For all LCIDs): 7902 bytes 
+
+[2026-04-16 13:03:17.177710] [gNB 0][ 332. 3] UE 1244: LCID 4: 3822 bytes , total DL buffer size (For all LCIDs): 3822 bytes 
+
+[2026-04-16 13:03:17.211149] [gNB 0][ 335.10] UE 1244: LCID 4: 9521 bytes , total DL buffer size (For all LCIDs): 9521 bytes 
+
+[2026-04-16 13:03:17.211648] [gNB 0][ 335.11] UE 1244: LCID 4: 5447 bytes , total DL buffer size (For all LCIDs): 5447 bytes 
+
+[2026-04-16 13:03:17.212148] [gNB 0][ 335.12] UE 1244: LCID 4: 1367 bytes , total DL buffer size (For all LCIDs): 1367 bytes 
+
+[2026-04-16 13:03:17.243647] [gNB 0][ 338.15] UE 1244: LCID 4: 8007 bytes , total DL buffer size (For all LCIDs): 8007 bytes 
+
+[2026-04-16 13:03:17.244134] [gNB 0][ 338.16] UE 1244: LCID 4: 3933 bytes , total DL buffer size (For all LCIDs): 3933 bytes 
+
+[2026-04-16 13:03:17.276649] [gNB 0][ 342. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:17.277148] [gNB 0][ 342. 2] UE 1244: LCID 4: 4909 bytes , total DL buffer size (For all LCIDs): 4909 bytes 
+
+[2026-04-16 13:03:17.277660] [gNB 0][ 342. 3] UE 1244: LCID 4: 444 bytes , total DL buffer size (For all LCIDs): 444 bytes 
+
+[2026-04-16 13:03:17.311209] [gNB 0][ 345.10] UE 1244: LCID 4: 8774 bytes , total DL buffer size (For all LCIDs): 8774 bytes 
+
+[2026-04-16 13:03:17.311706] [gNB 0][ 345.11] UE 1244: LCID 4: 4315 bytes , total DL buffer size (For all LCIDs): 4315 bytes 
+
+[2026-04-16 13:03:17.343708] [gNB 0][ 348.15] UE 1244: LCID 4: 9180 bytes , total DL buffer size (For all LCIDs): 9180 bytes 
+
+[2026-04-16 13:03:17.344208] [gNB 0][ 348.16] UE 1244: LCID 4: 10765 bytes , total DL buffer size (For all LCIDs): 10765 bytes 
+
+[2026-04-16 13:03:17.344701] [gNB 0][ 348.17] UE 1244: LCID 4: 6300 bytes , total DL buffer size (For all LCIDs): 6300 bytes 
+
+[2026-04-16 13:03:17.346200] [gNB 0][ 349. 0] UE 1244: LCID 4: 4649 bytes , total DL buffer size (For all LCIDs): 4649 bytes 
+
+[2026-04-16 13:03:17.346701] [gNB 0][ 349. 1] UE 1244: LCID 4: 184 bytes , total DL buffer size (For all LCIDs): 184 bytes 
+
+[2026-04-16 13:03:17.376712] [gNB 0][ 352. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:17.377212] [gNB 0][ 352. 2] UE 1244: LCID 4: 3500 bytes , total DL buffer size (For all LCIDs): 3500 bytes 
+
+[2026-04-16 13:03:17.411149] [gNB 0][ 355.10] UE 1244: LCID 4: 4774 bytes , total DL buffer size (For all LCIDs): 4774 bytes 
+
+[2026-04-16 13:03:17.411647] [gNB 0][ 355.11] UE 1244: LCID 4: 60 bytes , total DL buffer size (For all LCIDs): 60 bytes 
+
+[2026-04-16 13:03:17.443646] [gNB 0][ 358.15] UE 1244: LCID 4: 4023 bytes , total DL buffer size (For all LCIDs): 4023 bytes 
+
+[2026-04-16 13:03:17.476647] [gNB 0][ 362. 1] UE 1244: LCID 4: 1397 bytes , total DL buffer size (For all LCIDs): 1397 bytes 
+
+[2026-04-16 13:03:17.477148] [gNB 0][ 362. 2] UE 1244: LCID 4: 9190 bytes , total DL buffer size (For all LCIDs): 9190 bytes 
+
+[2026-04-16 13:03:17.477659] [gNB 0][ 362. 3] UE 1244: LCID 4: 4340 bytes , total DL buffer size (For all LCIDs): 4340 bytes 
+
+[2026-04-16 13:03:17.478158] [gNB 0][ 362. 4] UE 1244: LCID 4: 8 bytes , total DL buffer size (For all LCIDs): 8 bytes 
+
+[2026-04-16 13:03:17.511203] [gNB 0][ 365.10] UE 1244: LCID 4: 11240 bytes , total DL buffer size (For all LCIDs): 11240 bytes 
+
+[2026-04-16 13:03:17.511702] [gNB 0][ 365.11] UE 1244: LCID 4: 6396 bytes , total DL buffer size (For all LCIDs): 6396 bytes 
+
+[2026-04-16 13:03:17.512203] [gNB 0][ 365.12] UE 1244: LCID 4: 1549 bytes , total DL buffer size (For all LCIDs): 1549 bytes 
+
+[2026-04-16 13:03:17.543711] [gNB 0][ 368.15] UE 1244: LCID 4: 11293 bytes , total DL buffer size (For all LCIDs): 11293 bytes 
+
+[2026-04-16 13:03:17.544199] [gNB 0][ 368.16] UE 1244: LCID 4: 6449 bytes , total DL buffer size (For all LCIDs): 6449 bytes 
+
+[2026-04-16 13:03:17.544699] [gNB 0][ 368.17] UE 1244: LCID 4: 1602 bytes , total DL buffer size (For all LCIDs): 1602 bytes 
+
+[2026-04-16 13:03:17.576710] [gNB 0][ 372. 1] UE 1244: LCID 4: 5162 bytes , total DL buffer size (For all LCIDs): 5162 bytes 
+
+[2026-04-16 13:03:17.577206] [gNB 0][ 372. 2] UE 1244: LCID 4: 3966 bytes , total DL buffer size (For all LCIDs): 3966 bytes 
+
+[2026-04-16 13:03:17.611148] [gNB 0][ 375.10] UE 1244: LCID 4: 8369 bytes , total DL buffer size (For all LCIDs): 8369 bytes 
+
+[2026-04-16 13:03:17.611646] [gNB 0][ 375.11] UE 1244: LCID 4: 3270 bytes , total DL buffer size (For all LCIDs): 3270 bytes 
+
+[2026-04-16 13:03:17.643645] [gNB 0][ 378.15] UE 1244: LCID 4: 9185 bytes , total DL buffer size (For all LCIDs): 9185 bytes 
+
+[2026-04-16 13:03:17.644133] [gNB 0][ 378.16] UE 1244: LCID 4: 4086 bytes , total DL buffer size (For all LCIDs): 4086 bytes 
+
+[2026-04-16 13:03:17.676647] [gNB 0][ 382. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:17.677146] [gNB 0][ 382. 2] UE 1244: LCID 4: 7658 bytes , total DL buffer size (For all LCIDs): 7658 bytes 
+
+[2026-04-16 13:03:17.677658] [gNB 0][ 382. 3] UE 1244: LCID 4: 2299 bytes , total DL buffer size (For all LCIDs): 2299 bytes 
+
+[2026-04-16 13:03:17.711199] [gNB 0][ 385.10] UE 1244: LCID 4: 9437 bytes , total DL buffer size (For all LCIDs): 9437 bytes 
+
+[2026-04-16 13:03:17.711698] [gNB 0][ 385.11] UE 1244: LCID 4: 4084 bytes , total DL buffer size (For all LCIDs): 4084 bytes 
+
+[2026-04-16 13:03:17.743711] [gNB 0][ 388.15] UE 1244: LCID 4: 6774 bytes , total DL buffer size (For all LCIDs): 6774 bytes 
+
+[2026-04-16 13:03:17.744200] [gNB 0][ 388.16] UE 1244: LCID 4: 1421 bytes , total DL buffer size (For all LCIDs): 1421 bytes 
+
+[2026-04-16 13:03:17.776699] [gNB 0][ 392. 1] UE 1244: LCID 4: 5162 bytes , total DL buffer size (For all LCIDs): 5162 bytes 
+
+[2026-04-16 13:03:17.777209] [gNB 0][ 392. 2] UE 1244: LCID 4: 4529 bytes , total DL buffer size (For all LCIDs): 4529 bytes 
+
+[2026-04-16 13:03:17.811147] [gNB 0][ 395.10] UE 1244: LCID 4: 7538 bytes , total DL buffer size (For all LCIDs): 7538 bytes 
+
+[2026-04-16 13:03:17.811645] [gNB 0][ 395.11] UE 1244: LCID 4: 1801 bytes , total DL buffer size (For all LCIDs): 1801 bytes 
+
+[2026-04-16 13:03:17.843645] [gNB 0][ 398.15] UE 1244: LCID 4: 8028 bytes , total DL buffer size (For all LCIDs): 8028 bytes 
+
+[2026-04-16 13:03:17.844132] [gNB 0][ 398.16] UE 1244: LCID 4: 2291 bytes , total DL buffer size (For all LCIDs): 2291 bytes 
+
+[2026-04-16 13:03:17.876648] [gNB 0][ 402. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:17.877147] [gNB 0][ 402. 2] UE 1244: LCID 4: 4947 bytes , total DL buffer size (For all LCIDs): 4947 bytes 
+
+[2026-04-16 13:03:17.911202] [gNB 0][ 405.10] UE 1244: LCID 4: 8000 bytes , total DL buffer size (For all LCIDs): 8000 bytes 
+
+[2026-04-16 13:03:17.911701] [gNB 0][ 405.11] UE 1244: LCID 4: 2005 bytes , total DL buffer size (For all LCIDs): 2005 bytes 
+
+[2026-04-16 13:03:17.943715] [gNB 0][ 408.15] UE 1244: LCID 4: 6161 bytes , total DL buffer size (For all LCIDs): 6161 bytes 
+
+[2026-04-16 13:03:17.944212] [gNB 0][ 408.16] UE 1244: LCID 4: 166 bytes , total DL buffer size (For all LCIDs): 166 bytes 
+
+[2026-04-16 13:03:17.976709] [gNB 0][ 412. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:17.977209] [gNB 0][ 412. 2] UE 1244: LCID 4: 7135 bytes , total DL buffer size (For all LCIDs): 7135 bytes 
+
+[2026-04-16 13:03:17.977724] [gNB 0][ 412. 3] UE 1244: LCID 4: 756 bytes , total DL buffer size (For all LCIDs): 756 bytes 
+
+[2026-04-16 13:03:18.011146] [gNB 0][ 415.10] UE 1244: LCID 4: 10456 bytes , total DL buffer size (For all LCIDs): 10456 bytes 
+
+[2026-04-16 13:03:18.011645] [gNB 0][ 415.11] UE 1244: LCID 4: 4080 bytes , total DL buffer size (For all LCIDs): 4080 bytes 
+
+[2026-04-16 13:03:18.043644] [gNB 0][ 418.15] UE 1244: LCID 4: 9302 bytes , total DL buffer size (For all LCIDs): 9302 bytes 
+
+[2026-04-16 13:03:18.044131] [gNB 0][ 418.16] UE 1244: LCID 4: 2926 bytes , total DL buffer size (For all LCIDs): 2926 bytes 
+
+[2026-04-16 13:03:18.076646] [gNB 0][ 422. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:18.077145] [gNB 0][ 422. 2] UE 1244: LCID 4: 6889 bytes , total DL buffer size (For all LCIDs): 6889 bytes 
+
+[2026-04-16 13:03:18.077656] [gNB 0][ 422. 3] UE 1244: LCID 4: 384 bytes , total DL buffer size (For all LCIDs): 384 bytes 
+
+[2026-04-16 13:03:18.111201] [gNB 0][ 425.10] UE 1244: LCID 4: 4944 bytes , total DL buffer size (For all LCIDs): 4944 bytes 
+
+[2026-04-16 13:03:18.143711] [gNB 0][ 428.15] UE 1244: LCID 4: 13386 bytes , total DL buffer size (For all LCIDs): 13386 bytes 
+
+[2026-04-16 13:03:18.144201] [gNB 0][ 428.16] UE 1244: LCID 4: 6887 bytes , total DL buffer size (For all LCIDs): 6887 bytes 
+
+[2026-04-16 13:03:18.144701] [gNB 0][ 428.17] UE 1244: LCID 4: 382 bytes , total DL buffer size (For all LCIDs): 382 bytes 
+
+[2026-04-16 13:03:18.176710] [gNB 0][ 432. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:18.177198] [gNB 0][ 432. 2] UE 1244: LCID 4: 5098 bytes , total DL buffer size (For all LCIDs): 5098 bytes 
+
+[2026-04-16 13:03:18.211145] [gNB 0][ 435.10] UE 1244: LCID 4: 9599 bytes , total DL buffer size (For all LCIDs): 9599 bytes 
+
+[2026-04-16 13:03:18.211635] [gNB 0][ 435.11] UE 1244: LCID 4: 2841 bytes , total DL buffer size (For all LCIDs): 2841 bytes 
+
+[2026-04-16 13:03:18.243646] [gNB 0][ 438.15] UE 1244: LCID 4: 6394 bytes , total DL buffer size (For all LCIDs): 6394 bytes 
+
+[2026-04-16 13:03:18.248164] [gNB 0][ 439. 4] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:18.276644] [gNB 0][ 442. 1] UE 1244: LCID 4: 1397 bytes , total DL buffer size (For all LCIDs): 1397 bytes 
+
+[2026-04-16 13:03:18.277143] [gNB 0][ 442. 2] UE 1244: LCID 4: 10032 bytes , total DL buffer size (For all LCIDs): 10032 bytes 
+
+[2026-04-16 13:03:18.277655] [gNB 0][ 442. 3] UE 1244: LCID 4: 3268 bytes , total DL buffer size (For all LCIDs): 3268 bytes 
+
+[2026-04-16 13:03:18.311210] [gNB 0][ 445.10] UE 1244: LCID 4: 5862 bytes , total DL buffer size (For all LCIDs): 5862 bytes 
+
+[2026-04-16 13:03:18.343708] [gNB 0][ 448.15] UE 1244: LCID 4: 11690 bytes , total DL buffer size (For all LCIDs): 11690 bytes 
+
+[2026-04-16 13:03:18.344201] [gNB 0][ 448.16] UE 1244: LCID 4: 14156 bytes , total DL buffer size (For all LCIDs): 14156 bytes 
+
+[2026-04-16 13:03:18.344698] [gNB 0][ 448.17] UE 1244: LCID 4: 7392 bytes , total DL buffer size (For all LCIDs): 7392 bytes 
+
+[2026-04-16 13:03:18.346201] [gNB 0][ 449. 0] UE 1244: LCID 4: 4844 bytes , total DL buffer size (For all LCIDs): 4844 bytes 
+
+[2026-04-16 13:03:18.376714] [gNB 0][ 452. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:18.377207] [gNB 0][ 452. 2] UE 1244: LCID 4: 693 bytes , total DL buffer size (For all LCIDs): 693 bytes 
+
+[2026-04-16 13:03:18.411136] [gNB 0][ 455.10] UE 1244: LCID 4: 5756 bytes , total DL buffer size (For all LCIDs): 5756 bytes 
+
+[2026-04-16 13:03:18.443642] [gNB 0][ 458.15] UE 1244: LCID 4: 7672 bytes , total DL buffer size (For all LCIDs): 7672 bytes 
+
+[2026-04-16 13:03:18.444130] [gNB 0][ 458.16] UE 1244: LCID 4: 2156 bytes , total DL buffer size (For all LCIDs): 2156 bytes 
+
+[2026-04-16 13:03:18.476643] [gNB 0][ 462. 1] UE 1244: LCID 4: 142 bytes , total DL buffer size (For all LCIDs): 142 bytes 
+
+[2026-04-16 13:03:18.477142] [gNB 0][ 462. 2] UE 1244: LCID 4: 4249 bytes , total DL buffer size (For all LCIDs): 4249 bytes 
+
+[2026-04-16 13:03:18.511155] [gNB 0][ 465.10] UE 1244: LCID 4: 8400 bytes , total DL buffer size (For all LCIDs): 8400 bytes 
+
+[2026-04-16 13:03:18.511654] [gNB 0][ 465.11] UE 1244: LCID 4: 1642 bytes , total DL buffer size (For all LCIDs): 1642 bytes 
+
+[2026-04-16 13:03:18.543714] [gNB 0][ 468.15] UE 1244: LCID 4: 7124 bytes , total DL buffer size (For all LCIDs): 7124 bytes 
+
+[2026-04-16 13:03:18.544201] [gNB 0][ 468.16] UE 1244: LCID 4: 366 bytes , total DL buffer size (For all LCIDs): 366 bytes 
+
+[2026-04-16 13:03:18.576703] [gNB 0][ 472. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:18.577206] [gNB 0][ 472. 2] UE 1244: LCID 4: 5722 bytes , total DL buffer size (For all LCIDs): 5722 bytes 
+
+[2026-04-16 13:03:18.611115] [gNB 0][ 475.10] UE 1244: LCID 4: 8562 bytes , total DL buffer size (For all LCIDs): 8562 bytes 
+
+[2026-04-16 13:03:18.611644] [gNB 0][ 475.11] UE 1244: LCID 4: 1804 bytes , total DL buffer size (For all LCIDs): 1804 bytes 
+
+[2026-04-16 13:03:18.643641] [gNB 0][ 478.15] UE 1244: LCID 4: 6291 bytes , total DL buffer size (For all LCIDs): 6291 bytes 
+
+[2026-04-16 13:03:18.676642] [gNB 0][ 482. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:18.677142] [gNB 0][ 482. 2] UE 1244: LCID 4: 6252 bytes , total DL buffer size (For all LCIDs): 6252 bytes 
+
+[2026-04-16 13:03:18.711154] [gNB 0][ 485.10] UE 1244: LCID 4: 6962 bytes , total DL buffer size (For all LCIDs): 6962 bytes 
+
+[2026-04-16 13:03:18.711653] [gNB 0][ 485.11] UE 1244: LCID 4: 204 bytes , total DL buffer size (For all LCIDs): 204 bytes 
+
+[2026-04-16 13:03:18.743708] [gNB 0][ 488.15] UE 1244: LCID 4: 9124 bytes , total DL buffer size (For all LCIDs): 9124 bytes 
+
+[2026-04-16 13:03:18.744209] [gNB 0][ 488.16] UE 1244: LCID 4: 2366 bytes , total DL buffer size (For all LCIDs): 2366 bytes 
+
+[2026-04-16 13:03:18.776695] [gNB 0][ 492. 1] UE 1244: LCID 4: 7781 bytes , total DL buffer size (For all LCIDs): 7781 bytes 
+
+[2026-04-16 13:03:18.777204] [gNB 0][ 492. 2] UE 1244: LCID 4: 1023 bytes , total DL buffer size (For all LCIDs): 1023 bytes 
+
+[2026-04-16 13:03:18.811134] [gNB 0][ 495.10] UE 1244: LCID 4: 8368 bytes , total DL buffer size (For all LCIDs): 8368 bytes 
+
+[2026-04-16 13:03:18.811617] [gNB 0][ 495.11] UE 1244: LCID 4: 1610 bytes , total DL buffer size (For all LCIDs): 1610 bytes 
+
+[2026-04-16 13:03:18.843670] [gNB 0][ 498.15] UE 1244: LCID 4: 9580 bytes , total DL buffer size (For all LCIDs): 9580 bytes 
+
+[2026-04-16 13:03:18.844157] [gNB 0][ 498.16] UE 1244: LCID 4: 2822 bytes , total DL buffer size (For all LCIDs): 2822 bytes 
+
+[2026-04-16 13:03:18.876642] [gNB 0][ 502. 1] UE 1244: LCID 4: 1397 bytes , total DL buffer size (For all LCIDs): 1397 bytes 
+
+[2026-04-16 13:03:18.877141] [gNB 0][ 502. 2] UE 1244: LCID 4: 6141 bytes , total DL buffer size (For all LCIDs): 6141 bytes 
+
+[2026-04-16 13:03:18.911153] [gNB 0][ 505.10] UE 1244: LCID 4: 9539 bytes , total DL buffer size (For all LCIDs): 9539 bytes 
+
+[2026-04-16 13:03:18.911652] [gNB 0][ 505.11] UE 1244: LCID 4: 2781 bytes , total DL buffer size (For all LCIDs): 2781 bytes 
+
+[2026-04-16 13:03:18.943723] [gNB 0][ 508.15] UE 1244: LCID 4: 8553 bytes , total DL buffer size (For all LCIDs): 8553 bytes 
+
+[2026-04-16 13:03:18.944200] [gNB 0][ 508.16] UE 1244: LCID 4: 1795 bytes , total DL buffer size (For all LCIDs): 1795 bytes 
+
+[2026-04-16 13:03:18.976695] [gNB 0][ 512. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:18.977204] [gNB 0][ 512. 2] UE 1244: LCID 4: 5351 bytes , total DL buffer size (For all LCIDs): 5351 bytes 
+
+[2026-04-16 13:03:19.011144] [gNB 0][ 515.10] UE 1244: LCID 4: 9642 bytes , total DL buffer size (For all LCIDs): 9642 bytes 
+
+[2026-04-16 13:03:19.011631] [gNB 0][ 515.11] UE 1244: LCID 4: 2884 bytes , total DL buffer size (For all LCIDs): 2884 bytes 
+
+[2026-04-16 13:03:19.043669] [gNB 0][ 518.15] UE 1244: LCID 4: 6417 bytes , total DL buffer size (For all LCIDs): 6417 bytes 
+
+[2026-04-16 13:03:19.044156] [gNB 0][ 518.16] UE 1244: LCID 4: 1215 bytes , total DL buffer size (For all LCIDs): 1215 bytes 
+
+[2026-04-16 13:03:19.076640] [gNB 0][ 522. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:19.077140] [gNB 0][ 522. 2] UE 1244: LCID 4: 8007 bytes , total DL buffer size (For all LCIDs): 8007 bytes 
+
+[2026-04-16 13:03:19.077651] [gNB 0][ 522. 3] UE 1244: LCID 4: 1243 bytes , total DL buffer size (For all LCIDs): 1243 bytes 
+
+[2026-04-16 13:03:19.111152] [gNB 0][ 525.10] UE 1244: LCID 4: 6864 bytes , total DL buffer size (For all LCIDs): 6864 bytes 
+
+[2026-04-16 13:03:19.111650] [gNB 0][ 525.11] UE 1244: LCID 4: 106 bytes , total DL buffer size (For all LCIDs): 106 bytes 
+
+[2026-04-16 13:03:19.143721] [gNB 0][ 528.15] UE 1244: LCID 4: 9369 bytes , total DL buffer size (For all LCIDs): 9369 bytes 
+
+[2026-04-16 13:03:19.144208] [gNB 0][ 528.16] UE 1244: LCID 4: 2611 bytes , total DL buffer size (For all LCIDs): 2611 bytes 
+
+[2026-04-16 13:03:19.176709] [gNB 0][ 532. 1] UE 1244: LCID 4: 5162 bytes , total DL buffer size (For all LCIDs): 5162 bytes 
+
+[2026-04-16 13:03:19.177202] [gNB 0][ 532. 2] UE 1244: LCID 4: 5208 bytes , total DL buffer size (For all LCIDs): 5208 bytes 
+
+[2026-04-16 13:03:19.211132] [gNB 0][ 535.10] UE 1244: LCID 4: 7837 bytes , total DL buffer size (For all LCIDs): 7837 bytes 
+
+[2026-04-16 13:03:19.211630] [gNB 0][ 535.11] UE 1244: LCID 4: 1079 bytes , total DL buffer size (For all LCIDs): 1079 bytes 
+
+[2026-04-16 13:03:19.243669] [gNB 0][ 538.15] UE 1244: LCID 4: 9836 bytes , total DL buffer size (For all LCIDs): 9836 bytes 
+
+[2026-04-16 13:03:19.244156] [gNB 0][ 538.16] UE 1244: LCID 4: 3078 bytes , total DL buffer size (For all LCIDs): 3078 bytes 
+
+[2026-04-16 13:03:19.276640] [gNB 0][ 542. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:19.277139] [gNB 0][ 542. 2] UE 1244: LCID 4: 4199 bytes , total DL buffer size (For all LCIDs): 4199 bytes 
+
+[2026-04-16 13:03:19.311151] [gNB 0][ 545.10] UE 1244: LCID 4: 8488 bytes , total DL buffer size (For all LCIDs): 8488 bytes 
+
+[2026-04-16 13:03:19.311650] [gNB 0][ 545.11] UE 1244: LCID 4: 1730 bytes , total DL buffer size (For all LCIDs): 1730 bytes 
+
+[2026-04-16 13:03:19.343725] [gNB 0][ 548.15] UE 1244: LCID 4: 9180 bytes , total DL buffer size (For all LCIDs): 9180 bytes 
+
+[2026-04-16 13:03:19.344211] [gNB 0][ 548.16] UE 1244: LCID 4: 20604 bytes , total DL buffer size (For all LCIDs): 20604 bytes 
+
+[2026-04-16 13:03:19.344712] [gNB 0][ 548.17] UE 1244: LCID 4: 13840 bytes , total DL buffer size (For all LCIDs): 13840 bytes 
+
+[2026-04-16 13:03:19.346212] [gNB 0][ 549. 0] UE 1244: LCID 4: 11292 bytes , total DL buffer size (For all LCIDs): 11292 bytes 
+
+[2026-04-16 13:03:19.346713] [gNB 0][ 549. 1] UE 1244: LCID 4: 4528 bytes , total DL buffer size (For all LCIDs): 4528 bytes 
+
+[2026-04-16 13:03:19.376703] [gNB 0][ 552. 1] UE 1244: LCID 4: 1347 bytes , total DL buffer size (For all LCIDs): 1347 bytes 
+
+[2026-04-16 13:03:19.411131] [gNB 0][ 555.10] UE 1244: LCID 4: 7260 bytes , total DL buffer size (For all LCIDs): 7260 bytes 
+
+[2026-04-16 13:03:19.411631] [gNB 0][ 555.11] UE 1244: LCID 4: 502 bytes , total DL buffer size (For all LCIDs): 502 bytes 
+
+[2026-04-16 13:03:19.443637] [gNB 0][ 558.15] UE 1244: LCID 4: 6815 bytes , total DL buffer size (For all LCIDs): 6815 bytes 
+
+[2026-04-16 13:03:19.444155] [gNB 0][ 558.16] UE 1244: LCID 4: 57 bytes , total DL buffer size (For all LCIDs): 57 bytes 
+
+[2026-04-16 13:03:19.477138] [gNB 0][ 562. 2] UE 1244: LCID 4: 8343 bytes , total DL buffer size (For all LCIDs): 8343 bytes 
+
+[2026-04-16 13:03:19.477649] [gNB 0][ 562. 3] UE 1244: LCID 4: 1585 bytes , total DL buffer size (For all LCIDs): 1585 bytes 
+
+[2026-04-16 13:03:19.511150] [gNB 0][ 565.10] UE 1244: LCID 4: 7558 bytes , total DL buffer size (For all LCIDs): 7558 bytes 
+
+[2026-04-16 13:03:19.511649] [gNB 0][ 565.11] UE 1244: LCID 4: 800 bytes , total DL buffer size (For all LCIDs): 800 bytes 
+
+[2026-04-16 13:03:19.543712] [gNB 0][ 568.15] UE 1244: LCID 4: 8204 bytes , total DL buffer size (For all LCIDs): 8204 bytes 
+
+[2026-04-16 13:03:19.544201] [gNB 0][ 568.16] UE 1244: LCID 4: 1446 bytes , total DL buffer size (For all LCIDs): 1446 bytes 
+
+[2026-04-16 13:03:19.576702] [gNB 0][ 572. 1] UE 1244: LCID 4: 1397 bytes , total DL buffer size (For all LCIDs): 1397 bytes 
+
+[2026-04-16 13:03:19.577206] [gNB 0][ 572. 2] UE 1244: LCID 4: 6667 bytes , total DL buffer size (For all LCIDs): 6667 bytes 
+
+[2026-04-16 13:03:19.611132] [gNB 0][ 575.10] UE 1244: LCID 4: 9188 bytes , total DL buffer size (For all LCIDs): 9188 bytes 
+
+[2026-04-16 13:03:19.611630] [gNB 0][ 575.11] UE 1244: LCID 4: 2430 bytes , total DL buffer size (For all LCIDs): 2430 bytes 
+
+[2026-04-16 13:03:19.643666] [gNB 0][ 578.15] UE 1244: LCID 4: 8265 bytes , total DL buffer size (For all LCIDs): 8265 bytes 
+
+[2026-04-16 13:03:19.644154] [gNB 0][ 578.16] UE 1244: LCID 4: 1507 bytes , total DL buffer size (For all LCIDs): 1507 bytes 
+
+[2026-04-16 13:03:19.676637] [gNB 0][ 582. 1] UE 1244: LCID 4: 5162 bytes , total DL buffer size (For all LCIDs): 5162 bytes 
+
+[2026-04-16 13:03:19.677138] [gNB 0][ 582. 2] UE 1244: LCID 4: 3119 bytes , total DL buffer size (For all LCIDs): 3119 bytes 
+
+[2026-04-16 13:03:19.711149] [gNB 0][ 585.10] UE 1244: LCID 4: 8661 bytes , total DL buffer size (For all LCIDs): 8661 bytes 
+
+[2026-04-16 13:03:19.711647] [gNB 0][ 585.11] UE 1244: LCID 4: 1903 bytes , total DL buffer size (For all LCIDs): 1903 bytes 
+
+[2026-04-16 13:03:19.743713] [gNB 0][ 588.15] UE 1244: LCID 4: 9080 bytes , total DL buffer size (For all LCIDs): 9080 bytes 
+
+[2026-04-16 13:03:19.744200] [gNB 0][ 588.16] UE 1244: LCID 4: 2322 bytes , total DL buffer size (For all LCIDs): 2322 bytes 
+
+[2026-04-16 13:03:19.776702] [gNB 0][ 592. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:19.777200] [gNB 0][ 592. 2] UE 1244: LCID 4: 4481 bytes , total DL buffer size (For all LCIDs): 4481 bytes 
+
+[2026-04-16 13:03:19.811115] [gNB 0][ 595.10] UE 1244: LCID 4: 9492 bytes , total DL buffer size (For all LCIDs): 9492 bytes 
+
+[2026-04-16 13:03:19.811710] [gNB 0][ 595.11] UE 1244: LCID 4: 2734 bytes , total DL buffer size (For all LCIDs): 2734 bytes 
+
+[2026-04-16 13:03:19.843665] [gNB 0][ 598.15] UE 1244: LCID 4: 9328 bytes , total DL buffer size (For all LCIDs): 9328 bytes 
+
+[2026-04-16 13:03:19.844153] [gNB 0][ 598.16] UE 1244: LCID 4: 2570 bytes , total DL buffer size (For all LCIDs): 2570 bytes 
+
+[2026-04-16 13:03:19.876637] [gNB 0][ 602. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:19.877136] [gNB 0][ 602. 2] UE 1244: LCID 4: 4775 bytes , total DL buffer size (For all LCIDs): 4775 bytes 
+
+[2026-04-16 13:03:19.911149] [gNB 0][ 605.10] UE 1244: LCID 4: 9190 bytes , total DL buffer size (For all LCIDs): 9190 bytes 
+
+[2026-04-16 13:03:19.911647] [gNB 0][ 605.11] UE 1244: LCID 4: 2432 bytes , total DL buffer size (For all LCIDs): 2432 bytes 
+
+[2026-04-16 13:03:19.943712] [gNB 0][ 608.15] UE 1244: LCID 4: 8572 bytes , total DL buffer size (For all LCIDs): 8572 bytes 
+
+[2026-04-16 13:03:19.944201] [gNB 0][ 608.16] UE 1244: LCID 4: 1814 bytes , total DL buffer size (For all LCIDs): 1814 bytes 
+
+[2026-04-16 13:03:19.976694] [gNB 0][ 612. 1] UE 1244: LCID 4: 5162 bytes , total DL buffer size (For all LCIDs): 5162 bytes 
+
+[2026-04-16 13:03:19.977212] [gNB 0][ 612. 2] UE 1244: LCID 4: 4437 bytes , total DL buffer size (For all LCIDs): 4437 bytes 
+
+[2026-04-16 13:03:20.011198] [gNB 0][ 615.10] UE 1244: LCID 4: 8820 bytes , total DL buffer size (For all LCIDs): 8820 bytes 
+
+[2026-04-16 13:03:20.011709] [gNB 0][ 615.11] UE 1244: LCID 4: 2062 bytes , total DL buffer size (For all LCIDs): 2062 bytes 
+
+[2026-04-16 13:03:20.043634] [gNB 0][ 618.15] UE 1244: LCID 4: 8886 bytes , total DL buffer size (For all LCIDs): 8886 bytes 
+
+[2026-04-16 13:03:20.044152] [gNB 0][ 618.16] UE 1244: LCID 4: 2128 bytes , total DL buffer size (For all LCIDs): 2128 bytes 
+
+[2026-04-16 13:03:20.076636] [gNB 0][ 622. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:20.077135] [gNB 0][ 622. 2] UE 1244: LCID 4: 5187 bytes , total DL buffer size (For all LCIDs): 5187 bytes 
+
+[2026-04-16 13:03:20.111148] [gNB 0][ 625.10] UE 1244: LCID 4: 8645 bytes , total DL buffer size (For all LCIDs): 8645 bytes 
+
+[2026-04-16 13:03:20.111646] [gNB 0][ 625.11] UE 1244: LCID 4: 1887 bytes , total DL buffer size (For all LCIDs): 1887 bytes 
+
+[2026-04-16 13:03:20.143717] [gNB 0][ 628.15] UE 1244: LCID 4: 9412 bytes , total DL buffer size (For all LCIDs): 9412 bytes 
+
+[2026-04-16 13:03:20.144208] [gNB 0][ 628.16] UE 1244: LCID 4: 2654 bytes , total DL buffer size (For all LCIDs): 2654 bytes 
+
+[2026-04-16 13:03:20.176694] [gNB 0][ 632. 1] UE 1244: LCID 4: 5162 bytes , total DL buffer size (For all LCIDs): 5162 bytes 
+
+[2026-04-16 13:03:20.177201] [gNB 0][ 632. 2] UE 1244: LCID 4: 3743 bytes , total DL buffer size (For all LCIDs): 3743 bytes 
+
+[2026-04-16 13:03:20.211208] [gNB 0][ 635.10] UE 1244: LCID 4: 8468 bytes , total DL buffer size (For all LCIDs): 8468 bytes 
+
+[2026-04-16 13:03:20.211709] [gNB 0][ 635.11] UE 1244: LCID 4: 1710 bytes , total DL buffer size (For all LCIDs): 1710 bytes 
+
+[2026-04-16 13:03:20.243640] [gNB 0][ 638.15] UE 1244: LCID 4: 8927 bytes , total DL buffer size (For all LCIDs): 8927 bytes 
+
+[2026-04-16 13:03:20.244151] [gNB 0][ 638.16] UE 1244: LCID 4: 2411 bytes , total DL buffer size (For all LCIDs): 2411 bytes 
+
+[2026-04-16 13:03:20.276635] [gNB 0][ 642. 1] UE 1244: LCID 4: 142 bytes , total DL buffer size (For all LCIDs): 142 bytes 
+
+[2026-04-16 13:03:20.277134] [gNB 0][ 642. 2] UE 1244: LCID 4: 9033 bytes , total DL buffer size (For all LCIDs): 9033 bytes 
+
+[2026-04-16 13:03:20.277646] [gNB 0][ 642. 3] UE 1244: LCID 4: 2269 bytes , total DL buffer size (For all LCIDs): 2269 bytes 
+
+[2026-04-16 13:03:20.311146] [gNB 0][ 645.10] UE 1244: LCID 4: 9306 bytes , total DL buffer size (For all LCIDs): 9306 bytes 
+
+[2026-04-16 13:03:20.311649] [gNB 0][ 645.11] UE 1244: LCID 4: 2548 bytes , total DL buffer size (For all LCIDs): 2548 bytes 
+
+[2026-04-16 13:03:20.343707] [gNB 0][ 648.15] UE 1244: LCID 4: 10435 bytes , total DL buffer size (For all LCIDs): 10435 bytes 
+
+[2026-04-16 13:03:20.344201] [gNB 0][ 648.16] UE 1244: LCID 4: 16419 bytes , total DL buffer size (For all LCIDs): 16419 bytes 
+
+[2026-04-16 13:03:20.344707] [gNB 0][ 648.17] UE 1244: LCID 4: 9655 bytes , total DL buffer size (For all LCIDs): 9655 bytes 
+
+[2026-04-16 13:03:20.346215] [gNB 0][ 649. 0] UE 1244: LCID 4: 7107 bytes , total DL buffer size (For all LCIDs): 7107 bytes 
+
+[2026-04-16 13:03:20.346708] [gNB 0][ 649. 1] UE 1244: LCID 4: 343 bytes , total DL buffer size (For all LCIDs): 343 bytes 
+
+[2026-04-16 13:03:20.376699] [gNB 0][ 652. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:20.377201] [gNB 0][ 652. 2] UE 1244: LCID 4: 385 bytes , total DL buffer size (For all LCIDs): 385 bytes 
+
+[2026-04-16 13:03:20.411210] [gNB 0][ 655.10] UE 1244: LCID 4: 6108 bytes , total DL buffer size (For all LCIDs): 6108 bytes 
+
+[2026-04-16 13:03:20.443664] [gNB 0][ 658.15] UE 1244: LCID 4: 7672 bytes , total DL buffer size (For all LCIDs): 7672 bytes 
+
+[2026-04-16 13:03:20.444143] [gNB 0][ 658.16] UE 1244: LCID 4: 4855 bytes , total DL buffer size (For all LCIDs): 4855 bytes 
+
+[2026-04-16 13:03:20.476634] [gNB 0][ 662. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:20.477134] [gNB 0][ 662. 2] UE 1244: LCID 4: 3582 bytes , total DL buffer size (For all LCIDs): 3582 bytes 
+
+[2026-04-16 13:03:20.511146] [gNB 0][ 665.10] UE 1244: LCID 4: 8066 bytes , total DL buffer size (For all LCIDs): 8066 bytes 
+
+[2026-04-16 13:03:20.511644] [gNB 0][ 665.11] UE 1244: LCID 4: 1308 bytes , total DL buffer size (For all LCIDs): 1308 bytes 
+
+[2026-04-16 13:03:20.543723] [gNB 0][ 668.15] UE 1244: LCID 4: 7262 bytes , total DL buffer size (For all LCIDs): 7262 bytes 
+
+[2026-04-16 13:03:20.544204] [gNB 0][ 668.16] UE 1244: LCID 4: 504 bytes , total DL buffer size (For all LCIDs): 504 bytes 
+
+[2026-04-16 13:03:20.576699] [gNB 0][ 672. 1] UE 1244: LCID 4: 5162 bytes , total DL buffer size (For all LCIDs): 5162 bytes 
+
+[2026-04-16 13:03:20.577201] [gNB 0][ 672. 2] UE 1244: LCID 4: 3311 bytes , total DL buffer size (For all LCIDs): 3311 bytes 
+
+[2026-04-16 13:03:20.611208] [gNB 0][ 675.10] UE 1244: LCID 4: 10408 bytes , total DL buffer size (For all LCIDs): 10408 bytes 
+
+[2026-04-16 13:03:20.611706] [gNB 0][ 675.11] UE 1244: LCID 4: 3650 bytes , total DL buffer size (For all LCIDs): 3650 bytes 
+
+[2026-04-16 13:03:20.643662] [gNB 0][ 678.15] UE 1244: LCID 4: 6528 bytes , total DL buffer size (For all LCIDs): 6528 bytes 
+
+[2026-04-16 13:03:20.676633] [gNB 0][ 682. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:20.677133] [gNB 0][ 682. 2] UE 1244: LCID 4: 5548 bytes , total DL buffer size (For all LCIDs): 5548 bytes 
+
+[2026-04-16 13:03:20.711145] [gNB 0][ 685.10] UE 1244: LCID 4: 8118 bytes , total DL buffer size (For all LCIDs): 8118 bytes 
+
+[2026-04-16 13:03:20.711643] [gNB 0][ 685.11] UE 1244: LCID 4: 1360 bytes , total DL buffer size (For all LCIDs): 1360 bytes 
+
+[2026-04-16 13:03:20.743720] [gNB 0][ 688.15] UE 1244: LCID 4: 8631 bytes , total DL buffer size (For all LCIDs): 8631 bytes 
+
+[2026-04-16 13:03:20.744199] [gNB 0][ 688.16] UE 1244: LCID 4: 1873 bytes , total DL buffer size (For all LCIDs): 1873 bytes 
+
+[2026-04-16 13:03:20.776694] [gNB 0][ 692. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:20.777200] [gNB 0][ 692. 2] UE 1244: LCID 4: 7007 bytes , total DL buffer size (For all LCIDs): 7007 bytes 
+
+[2026-04-16 13:03:20.777713] [gNB 0][ 692. 3] UE 1244: LCID 4: 243 bytes , total DL buffer size (For all LCIDs): 243 bytes 
+
+[2026-04-16 13:03:20.783212] [gNB 0][ 692.14] UE 1244: LCID 4: 3 bytes , total DL buffer size (For all LCIDs): 3 bytes 
+
+[2026-04-16 13:03:20.811207] [gNB 0][ 695.10] UE 1244: LCID 4: 6967 bytes , total DL buffer size (For all LCIDs): 6967 bytes 
+
+[2026-04-16 13:03:20.811706] [gNB 0][ 695.11] UE 1244: LCID 4: 209 bytes , total DL buffer size (For all LCIDs): 209 bytes 
+
+[2026-04-16 13:03:20.843662] [gNB 0][ 698.15] UE 1244: LCID 4: 8647 bytes , total DL buffer size (For all LCIDs): 8647 bytes 
+
+[2026-04-16 13:03:20.844148] [gNB 0][ 698.16] UE 1244: LCID 4: 1889 bytes , total DL buffer size (For all LCIDs): 1889 bytes 
+
+[2026-04-16 13:03:20.876633] [gNB 0][ 702. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:20.877132] [gNB 0][ 702. 2] UE 1244: LCID 4: 4269 bytes , total DL buffer size (For all LCIDs): 4269 bytes 
+
+[2026-04-16 13:03:20.911144] [gNB 0][ 705.10] UE 1244: LCID 4: 8733 bytes , total DL buffer size (For all LCIDs): 8733 bytes 
+
+[2026-04-16 13:03:20.911642] [gNB 0][ 705.11] UE 1244: LCID 4: 1975 bytes , total DL buffer size (For all LCIDs): 1975 bytes 
+
+[2026-04-16 13:03:20.943713] [gNB 0][ 708.15] UE 1244: LCID 4: 8927 bytes , total DL buffer size (For all LCIDs): 8927 bytes 
+
+[2026-04-16 13:03:20.944201] [gNB 0][ 708.16] UE 1244: LCID 4: 3687 bytes , total DL buffer size (For all LCIDs): 3687 bytes 
+
+[2026-04-16 13:03:20.976700] [gNB 0][ 712. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:20.977199] [gNB 0][ 712. 2] UE 1244: LCID 4: 5683 bytes , total DL buffer size (For all LCIDs): 5683 bytes 
+
+[2026-04-16 13:03:21.011207] [gNB 0][ 715.10] UE 1244: LCID 4: 8624 bytes , total DL buffer size (For all LCIDs): 8624 bytes 
+
+[2026-04-16 13:03:21.011704] [gNB 0][ 715.11] UE 1244: LCID 4: 1866 bytes , total DL buffer size (For all LCIDs): 1866 bytes 
+
+[2026-04-16 13:03:21.043660] [gNB 0][ 718.15] UE 1244: LCID 4: 8037 bytes , total DL buffer size (For all LCIDs): 8037 bytes 
+
+[2026-04-16 13:03:21.044148] [gNB 0][ 718.16] UE 1244: LCID 4: 1279 bytes , total DL buffer size (For all LCIDs): 1279 bytes 
+
+[2026-04-16 13:03:21.076631] [gNB 0][ 722. 1] UE 1244: LCID 4: 142 bytes , total DL buffer size (For all LCIDs): 142 bytes 
+
+[2026-04-16 13:03:21.077130] [gNB 0][ 722. 2] UE 1244: LCID 4: 8527 bytes , total DL buffer size (For all LCIDs): 8527 bytes 
+
+[2026-04-16 13:03:21.077642] [gNB 0][ 722. 3] UE 1244: LCID 4: 1763 bytes , total DL buffer size (For all LCIDs): 1763 bytes 
+
+[2026-04-16 13:03:21.111143] [gNB 0][ 725.10] UE 1244: LCID 4: 10661 bytes , total DL buffer size (For all LCIDs): 10661 bytes 
+
+[2026-04-16 13:03:21.111641] [gNB 0][ 725.11] UE 1244: LCID 4: 3903 bytes , total DL buffer size (For all LCIDs): 3903 bytes 
+
+[2026-04-16 13:03:21.143719] [gNB 0][ 728.15] UE 1244: LCID 4: 9011 bytes , total DL buffer size (For all LCIDs): 9011 bytes 
+
+[2026-04-16 13:03:21.144201] [gNB 0][ 728.16] UE 1244: LCID 4: 2253 bytes , total DL buffer size (For all LCIDs): 2253 bytes 
+
+[2026-04-16 13:03:21.176694] [gNB 0][ 732. 1] UE 1244: LCID 4: 5162 bytes , total DL buffer size (For all LCIDs): 5162 bytes 
+
+[2026-04-16 13:03:21.177207] [gNB 0][ 732. 2] UE 1244: LCID 4: 2856 bytes , total DL buffer size (For all LCIDs): 2856 bytes 
+
+[2026-04-16 13:03:21.211205] [gNB 0][ 735.10] UE 1244: LCID 4: 8272 bytes , total DL buffer size (For all LCIDs): 8272 bytes 
+
+[2026-04-16 13:03:21.211704] [gNB 0][ 735.11] UE 1244: LCID 4: 1514 bytes , total DL buffer size (For all LCIDs): 1514 bytes 
+
+[2026-04-16 13:03:21.243659] [gNB 0][ 738.15] UE 1244: LCID 4: 8391 bytes , total DL buffer size (For all LCIDs): 8391 bytes 
+
+[2026-04-16 13:03:21.244147] [gNB 0][ 738.16] UE 1244: LCID 4: 1633 bytes , total DL buffer size (For all LCIDs): 1633 bytes 
+
+[2026-04-16 13:03:21.276631] [gNB 0][ 742. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:21.277130] [gNB 0][ 742. 2] UE 1244: LCID 4: 6980 bytes , total DL buffer size (For all LCIDs): 6980 bytes 
+
+[2026-04-16 13:03:21.277641] [gNB 0][ 742. 3] UE 1244: LCID 4: 216 bytes , total DL buffer size (For all LCIDs): 216 bytes 
+
+[2026-04-16 13:03:21.311142] [gNB 0][ 745.10] UE 1244: LCID 4: 8578 bytes , total DL buffer size (For all LCIDs): 8578 bytes 
+
+[2026-04-16 13:03:21.311640] [gNB 0][ 745.11] UE 1244: LCID 4: 1820 bytes , total DL buffer size (For all LCIDs): 1820 bytes 
+
+[2026-04-16 13:03:21.343737] [gNB 0][ 748.15] UE 1244: LCID 4: 9180 bytes , total DL buffer size (For all LCIDs): 9180 bytes 
+
+[2026-04-16 13:03:21.344200] [gNB 0][ 748.16] UE 1244: LCID 4: 15314 bytes , total DL buffer size (For all LCIDs): 15314 bytes 
+
+[2026-04-16 13:03:21.344700] [gNB 0][ 748.17] UE 1244: LCID 4: 8550 bytes , total DL buffer size (For all LCIDs): 8550 bytes 
+
+[2026-04-16 13:03:21.346153] [gNB 0][ 749. 0] UE 1244: LCID 4: 6002 bytes , total DL buffer size (For all LCIDs): 6002 bytes 
+
+[2026-04-16 13:03:21.376698] [gNB 0][ 752. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:21.377203] [gNB 0][ 752. 2] UE 1244: LCID 4: 3026 bytes , total DL buffer size (For all LCIDs): 3026 bytes 
+
+[2026-04-16 13:03:21.411205] [gNB 0][ 755.10] UE 1244: LCID 4: 9655 bytes , total DL buffer size (For all LCIDs): 9655 bytes 
+
+[2026-04-16 13:03:21.411703] [gNB 0][ 755.11] UE 1244: LCID 4: 2897 bytes , total DL buffer size (For all LCIDs): 2897 bytes 
+
+[2026-04-16 13:03:21.443659] [gNB 0][ 758.15] UE 1244: LCID 4: 8544 bytes , total DL buffer size (For all LCIDs): 8544 bytes 
+
+[2026-04-16 13:03:21.444145] [gNB 0][ 758.16] UE 1244: LCID 4: 1786 bytes , total DL buffer size (For all LCIDs): 1786 bytes 
+
+[2026-04-16 13:03:21.476630] [gNB 0][ 762. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:21.477129] [gNB 0][ 762. 2] UE 1244: LCID 4: 2101 bytes , total DL buffer size (For all LCIDs): 2101 bytes 
+
+[2026-04-16 13:03:21.511141] [gNB 0][ 765.10] UE 1244: LCID 4: 7502 bytes , total DL buffer size (For all LCIDs): 7502 bytes 
+
+[2026-04-16 13:03:21.511640] [gNB 0][ 765.11] UE 1244: LCID 4: 744 bytes , total DL buffer size (For all LCIDs): 744 bytes 
+
+[2026-04-16 13:03:21.543712] [gNB 0][ 768.15] UE 1244: LCID 4: 7596 bytes , total DL buffer size (For all LCIDs): 7596 bytes 
+
+[2026-04-16 13:03:21.544200] [gNB 0][ 768.16] UE 1244: LCID 4: 838 bytes , total DL buffer size (For all LCIDs): 838 bytes 
+
+[2026-04-16 13:03:21.576694] [gNB 0][ 772. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:21.577207] [gNB 0][ 772. 2] UE 1244: LCID 4: 4231 bytes , total DL buffer size (For all LCIDs): 4231 bytes 
+
+[2026-04-16 13:03:21.611208] [gNB 0][ 775.10] UE 1244: LCID 4: 8339 bytes , total DL buffer size (For all LCIDs): 8339 bytes 
+
+[2026-04-16 13:03:21.611717] [gNB 0][ 775.11] UE 1244: LCID 4: 1581 bytes , total DL buffer size (For all LCIDs): 1581 bytes 
+
+[2026-04-16 13:03:21.643657] [gNB 0][ 778.15] UE 1244: LCID 4: 8745 bytes , total DL buffer size (For all LCIDs): 8745 bytes 
+
+[2026-04-16 13:03:21.644135] [gNB 0][ 778.16] UE 1244: LCID 4: 1987 bytes , total DL buffer size (For all LCIDs): 1987 bytes 
+
+[2026-04-16 13:03:21.676629] [gNB 0][ 782. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:21.677128] [gNB 0][ 782. 2] UE 1244: LCID 4: 3069 bytes , total DL buffer size (For all LCIDs): 3069 bytes 
+
+[2026-04-16 13:03:21.711140] [gNB 0][ 785.10] UE 1244: LCID 4: 8048 bytes , total DL buffer size (For all LCIDs): 8048 bytes 
+
+[2026-04-16 13:03:21.711639] [gNB 0][ 785.11] UE 1244: LCID 4: 1290 bytes , total DL buffer size (For all LCIDs): 1290 bytes 
+
+[2026-04-16 13:03:21.743722] [gNB 0][ 788.15] UE 1244: LCID 4: 7948 bytes , total DL buffer size (For all LCIDs): 7948 bytes 
+
+[2026-04-16 13:03:21.744155] [gNB 0][ 788.16] UE 1244: LCID 4: 1190 bytes , total DL buffer size (For all LCIDs): 1190 bytes 
+
+[2026-04-16 13:03:21.776699] [gNB 0][ 792. 1] UE 1244: LCID 4: 142 bytes , total DL buffer size (For all LCIDs): 142 bytes 
+
+[2026-04-16 13:03:21.777200] [gNB 0][ 792. 2] UE 1244: LCID 4: 12063 bytes , total DL buffer size (For all LCIDs): 12063 bytes 
+
+[2026-04-16 13:03:21.777712] [gNB 0][ 792. 3] UE 1244: LCID 4: 5299 bytes , total DL buffer size (For all LCIDs): 5299 bytes 
+
+[2026-04-16 13:03:21.811206] [gNB 0][ 795.10] UE 1244: LCID 4: 6584 bytes , total DL buffer size (For all LCIDs): 6584 bytes 
+
+[2026-04-16 13:03:21.843627] [gNB 0][ 798.15] UE 1244: LCID 4: 7115 bytes , total DL buffer size (For all LCIDs): 7115 bytes 
+
+[2026-04-16 13:03:21.844116] [gNB 0][ 798.16] UE 1244: LCID 4: 357 bytes , total DL buffer size (For all LCIDs): 357 bytes 
+
+[2026-04-16 13:03:21.876628] [gNB 0][ 802. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:21.877127] [gNB 0][ 802. 2] UE 1244: LCID 4: 3154 bytes , total DL buffer size (For all LCIDs): 3154 bytes 
+
+[2026-04-16 13:03:21.911139] [gNB 0][ 805.10] UE 1244: LCID 4: 7636 bytes , total DL buffer size (For all LCIDs): 7636 bytes 
+
+[2026-04-16 13:03:21.911637] [gNB 0][ 805.11] UE 1244: LCID 4: 878 bytes , total DL buffer size (For all LCIDs): 878 bytes 
+
+[2026-04-16 13:03:21.943672] [gNB 0][ 808.15] UE 1244: LCID 4: 10182 bytes , total DL buffer size (For all LCIDs): 10182 bytes 
+
+[2026-04-16 13:03:21.944154] [gNB 0][ 808.16] UE 1244: LCID 4: 5192 bytes , total DL buffer size (For all LCIDs): 5192 bytes 
+
+[2026-04-16 13:03:21.976712] [gNB 0][ 812. 1] UE 1244: LCID 4: 5162 bytes , total DL buffer size (For all LCIDs): 5162 bytes 
+
+[2026-04-16 13:03:21.977202] [gNB 0][ 812. 2] UE 1244: LCID 4: 2112 bytes , total DL buffer size (For all LCIDs): 2112 bytes 
+
+[2026-04-16 13:03:22.011202] [gNB 0][ 815.10] UE 1244: LCID 4: 6930 bytes , total DL buffer size (For all LCIDs): 6930 bytes 
+
+[2026-04-16 13:03:22.011701] [gNB 0][ 815.11] UE 1244: LCID 4: 172 bytes , total DL buffer size (For all LCIDs): 172 bytes 
+
+[2026-04-16 13:03:22.043651] [gNB 0][ 818.15] UE 1244: LCID 4: 7249 bytes , total DL buffer size (For all LCIDs): 7249 bytes 
+
+[2026-04-16 13:03:22.044118] [gNB 0][ 818.16] UE 1244: LCID 4: 491 bytes , total DL buffer size (For all LCIDs): 491 bytes 
+
+[2026-04-16 13:03:22.076627] [gNB 0][ 822. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:22.077157] [gNB 0][ 822. 2] UE 1244: LCID 4: 3598 bytes , total DL buffer size (For all LCIDs): 3598 bytes 
+
+[2026-04-16 13:03:22.111139] [gNB 0][ 825.10] UE 1244: LCID 4: 11986 bytes , total DL buffer size (For all LCIDs): 11986 bytes 
+
+[2026-04-16 13:03:22.111637] [gNB 0][ 825.11] UE 1244: LCID 4: 5228 bytes , total DL buffer size (For all LCIDs): 5228 bytes 
+
+[2026-04-16 13:03:22.143666] [gNB 0][ 828.15] UE 1244: LCID 4: 6832 bytes , total DL buffer size (For all LCIDs): 6832 bytes 
+
+[2026-04-16 13:03:22.144153] [gNB 0][ 828.16] UE 1244: LCID 4: 74 bytes , total DL buffer size (For all LCIDs): 74 bytes 
+
+[2026-04-16 13:03:22.176707] [gNB 0][ 832. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:22.177201] [gNB 0][ 832. 2] UE 1244: LCID 4: 2835 bytes , total DL buffer size (For all LCIDs): 2835 bytes 
+
+[2026-04-16 13:03:22.211202] [gNB 0][ 835.10] UE 1244: LCID 4: 7108 bytes , total DL buffer size (For all LCIDs): 7108 bytes 
+
+[2026-04-16 13:03:22.211702] [gNB 0][ 835.11] UE 1244: LCID 4: 350 bytes , total DL buffer size (For all LCIDs): 350 bytes 
+
+[2026-04-16 13:03:22.243630] [gNB 0][ 838.15] UE 1244: LCID 4: 7407 bytes , total DL buffer size (For all LCIDs): 7407 bytes 
+
+[2026-04-16 13:03:22.244134] [gNB 0][ 838.16] UE 1244: LCID 4: 649 bytes , total DL buffer size (For all LCIDs): 649 bytes 
+
+[2026-04-16 13:03:22.276626] [gNB 0][ 842. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:22.277155] [gNB 0][ 842. 2] UE 1244: LCID 4: 9513 bytes , total DL buffer size (For all LCIDs): 9513 bytes 
+
+[2026-04-16 13:03:22.277667] [gNB 0][ 842. 3] UE 1244: LCID 4: 2749 bytes , total DL buffer size (For all LCIDs): 2749 bytes 
+
+[2026-04-16 13:03:22.311137] [gNB 0][ 845.10] UE 1244: LCID 4: 6394 bytes , total DL buffer size (For all LCIDs): 6394 bytes 
+
+[2026-04-16 13:03:22.343666] [gNB 0][ 848.15] UE 1244: LCID 4: 14200 bytes , total DL buffer size (For all LCIDs): 14200 bytes 
+
+[2026-04-16 13:03:22.344152] [gNB 0][ 848.16] UE 1244: LCID 4: 22039 bytes , total DL buffer size (For all LCIDs): 22039 bytes 
+
+[2026-04-16 13:03:22.344650] [gNB 0][ 848.17] UE 1244: LCID 4: 15275 bytes , total DL buffer size (For all LCIDs): 15275 bytes 
+
+[2026-04-16 13:03:22.346148] [gNB 0][ 849. 0] UE 1244: LCID 4: 12727 bytes , total DL buffer size (For all LCIDs): 12727 bytes 
+
+[2026-04-16 13:03:22.346646] [gNB 0][ 849. 1] UE 1244: LCID 4: 5963 bytes , total DL buffer size (For all LCIDs): 5963 bytes 
+
+[2026-04-16 13:03:22.376698] [gNB 0][ 852. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:22.377200] [gNB 0][ 852. 2] UE 1244: LCID 4: 5699 bytes , total DL buffer size (For all LCIDs): 5699 bytes 
+
+[2026-04-16 13:03:22.411201] [gNB 0][ 855.10] UE 1244: LCID 4: 8107 bytes , total DL buffer size (For all LCIDs): 8107 bytes 
+
+[2026-04-16 13:03:22.411697] [gNB 0][ 855.11] UE 1244: LCID 4: 1349 bytes , total DL buffer size (For all LCIDs): 1349 bytes 
+
+[2026-04-16 13:03:22.443655] [gNB 0][ 858.15] UE 1244: LCID 4: 6249 bytes , total DL buffer size (For all LCIDs): 6249 bytes 
+
+[2026-04-16 13:03:22.476656] [gNB 0][ 862. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:22.477155] [gNB 0][ 862. 2] UE 1244: LCID 4: 10561 bytes , total DL buffer size (For all LCIDs): 10561 bytes 
+
+[2026-04-16 13:03:22.477666] [gNB 0][ 862. 3] UE 1244: LCID 4: 3797 bytes , total DL buffer size (For all LCIDs): 3797 bytes 
+
+[2026-04-16 13:03:22.511137] [gNB 0][ 865.10] UE 1244: LCID 4: 3986 bytes , total DL buffer size (For all LCIDs): 3986 bytes 
+
+[2026-04-16 13:03:22.543665] [gNB 0][ 868.15] UE 1244: LCID 4: 8435 bytes , total DL buffer size (For all LCIDs): 8435 bytes 
+
+[2026-04-16 13:03:22.544151] [gNB 0][ 868.16] UE 1244: LCID 4: 1677 bytes , total DL buffer size (For all LCIDs): 1677 bytes 
+
+[2026-04-16 13:03:22.576712] [gNB 0][ 872. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:22.577200] [gNB 0][ 872. 2] UE 1244: LCID 4: 4398 bytes , total DL buffer size (For all LCIDs): 4398 bytes 
+
+[2026-04-16 13:03:22.611215] [gNB 0][ 875.10] UE 1244: LCID 4: 11014 bytes , total DL buffer size (For all LCIDs): 11014 bytes 
+
+[2026-04-16 13:03:22.611699] [gNB 0][ 875.11] UE 1244: LCID 4: 4256 bytes , total DL buffer size (For all LCIDs): 4256 bytes 
+
+[2026-04-16 13:03:22.643631] [gNB 0][ 878.15] UE 1244: LCID 4: 6721 bytes , total DL buffer size (For all LCIDs): 6721 bytes 
+
+[2026-04-16 13:03:22.676655] [gNB 0][ 882. 1] UE 1244: LCID 4: 2652 bytes , total DL buffer size (For all LCIDs): 2652 bytes 
+
+[2026-04-16 13:03:22.677154] [gNB 0][ 882. 2] UE 1244: LCID 4: 2865 bytes , total DL buffer size (For all LCIDs): 2865 bytes 
+
+[2026-04-16 13:03:22.711135] [gNB 0][ 885.10] UE 1244: LCID 4: 6023 bytes , total DL buffer size (For all LCIDs): 6023 bytes 
+
+[2026-04-16 13:03:22.743663] [gNB 0][ 888.15] UE 1244: LCID 4: 6106 bytes , total DL buffer size (For all LCIDs): 6106 bytes 
+
+[2026-04-16 13:03:22.776711] [gNB 0][ 892. 1] UE 1244: LCID 4: 5162 bytes , total DL buffer size (For all LCIDs): 5162 bytes 
+
+[2026-04-16 13:03:22.777210] [gNB 0][ 892. 2] UE 1244: LCID 4: 8186 bytes , total DL buffer size (For all LCIDs): 8186 bytes 
+
+[2026-04-16 13:03:22.777718] [gNB 0][ 892. 3] UE 1244: LCID 4: 1422 bytes , total DL buffer size (For all LCIDs): 1422 bytes 
+
+[2026-04-16 13:03:22.811198] [gNB 0][ 895.10] UE 1244: LCID 4: 6154 bytes , total DL buffer size (For all LCIDs): 6154 bytes 
+
+[2026-04-16 13:03:22.843628] [gNB 0][ 898.15] UE 1244: LCID 4: 5674 bytes , total DL buffer size (For all LCIDs): 5674 bytes 
+
+[2026-04-16 13:03:22.876653] [gNB 0][ 902. 1] UE 1244: LCID 4: 69 bytes , total DL buffer size (For all LCIDs): 69 bytes 
+
+[2026-04-16 13:03:22.877153] [gNB 0][ 902. 2] UE 1244: LCID 4: 6266 bytes , total DL buffer size (For all LCIDs): 6266 bytes 
+
+[2026-04-16 13:03:22.911135] [gNB 0][ 905.10] UE 1244: LCID 4: 6676 bytes , total DL buffer size (For all LCIDs): 6676 bytes 
+
+[2026-04-16 13:03:22.943663] [gNB 0][ 908.15] UE 1244: LCID 4: 12692 bytes , total DL buffer size (For all LCIDs): 12692 bytes 
+
+[2026-04-16 13:03:22.944149] [gNB 0][ 908.16] UE 1244: LCID 4: 6359 bytes , total DL buffer size (For all LCIDs): 6359 bytes 
+
+[2026-04-16 13:03:22.976712] [gNB 0][ 912. 1] UE 1244: LCID 4: 6746 bytes , total DL buffer size (For all LCIDs): 6746 bytes 
+
+[2026-04-16 13:03:23.011215] [gNB 0][ 915.10] UE 1244: LCID 4: 6514 bytes , total DL buffer size (For all LCIDs): 6514 bytes 
+
+[2026-04-16 13:03:23.011699] [gNB 0][ 915.11] UE 1244: LCID 4: 15 bytes , total DL buffer size (For all LCIDs): 15 bytes 
+
+[2026-04-16 13:03:23.043624] [gNB 0][ 918.15] UE 1244: LCID 4: 6796 bytes , total DL buffer size (For all LCIDs): 6796 bytes 
+
+[2026-04-16 13:03:23.044112] [gNB 0][ 918.16] UE 1244: LCID 4: 38 bytes , total DL buffer size (For all LCIDs): 38 bytes 
+
+[2026-04-16 13:03:23.076652] [gNB 0][ 922. 1] UE 1244: LCID 4: 5162 bytes , total DL buffer size (For all LCIDs): 5162 bytes 
+
+[2026-04-16 13:03:23.077152] [gNB 0][ 922. 2] UE 1244: LCID 4: 2246 bytes , total DL buffer size (For all LCIDs): 2246 bytes 
+
+[2026-04-16 13:03:23.111134] [gNB 0][ 925.10] UE 1244: LCID 4: 13533 bytes , total DL buffer size (For all LCIDs): 13533 bytes 
+
+[2026-04-16 13:03:23.111632] [gNB 0][ 925.11] UE 1244: LCID 4: 6775 bytes , total DL buffer size (For all LCIDs): 6775 bytes 
+
+[2026-04-16 13:03:23.112132] [gNB 0][ 925.12] UE 1244: LCID 4: 11 bytes , total DL buffer size (For all LCIDs): 11 bytes 
+
+[2026-04-16 13:03:23.143661] [gNB 0][ 928.15] UE 1244: LCID 4: 6985 bytes , total DL buffer size (For all LCIDs): 6985 bytes 
+
+[2026-04-16 13:03:23.144148] [gNB 0][ 928.16] UE 1244: LCID 4: 227 bytes , total DL buffer size (For all LCIDs): 227 bytes 
+
+[2026-04-16 13:03:23.176698] [gNB 0][ 932. 1] UE 1244: LCID 4: 3907 bytes , total DL buffer size (For all LCIDs): 3907 bytes 
+
+[2026-04-16 13:03:23.177202] [gNB 0][ 932. 2] UE 1244: LCID 4: 2749 bytes , total DL buffer size (For all LCIDs): 2749 bytes 
+
+[2026-04-16 13:03:23.211199] [gNB 0][ 935.10] UE 1244: LCID 4: 6613 bytes , total DL buffer size (For all LCIDs): 6613 bytes 
+
+[2026-04-16 13:03:23.243640] [gNB 0][ 938.15] UE 1244: LCID 4: 7144 bytes , total DL buffer size (For all LCIDs): 7144 bytes 
+
+[2026-04-16 13:03:23.244113] [gNB 0][ 938.16] UE 1244: LCID 4: 386 bytes , total DL buffer size (For all LCIDs): 386 bytes 
+
+[2026-04-16 13:03:23.276652] [gNB 0][ 942. 1] UE 1244: LCID 4: 1397 bytes , total DL buffer size (For all LCIDs): 1397 bytes 
+
+[2026-04-16 13:03:23.277152] [gNB 0][ 942. 2] UE 1244: LCID 4: 12454 bytes , total DL buffer size (For all LCIDs): 12454 bytes 
+
+[2026-04-16 13:03:23.277634] [gNB 0][ 942. 3] UE 1244: LCID 4: 5690 bytes , total DL buffer size (For all LCIDs): 5690 bytes 
+
+[2026-04-16 13:03:23.311133] [gNB 0][ 945.10] UE 1244: LCID 4: 6641 bytes , total DL buffer size (For all LCIDs): 6641 bytes 
+
+[2026-04-16 13:03:23.311631] [gNB 0][ 945.11] UE 1244: LCID 4: 9 bytes , total DL buffer size (For all LCIDs): 9 bytes 
+
+[2026-04-16 13:03:23.343662] [gNB 0][ 948.15] UE 1244: LCID 4: 15455 bytes , total DL buffer size (For all LCIDs): 15455 bytes 
+
+[2026-04-16 13:03:23.344148] [gNB 0][ 948.16] UE 1244: LCID 4: 26689 bytes , total DL buffer size (For all LCIDs): 26689 bytes 
+
+[2026-04-16 13:03:23.344646] [gNB 0][ 948.17] UE 1244: LCID 4: 19925 bytes , total DL buffer size (For all LCIDs): 19925 bytes 
+
+[2026-04-16 13:03:23.346143] [gNB 0][ 949. 0] UE 1244: LCID 4: 17377 bytes , total DL buffer size (For all LCIDs): 17377 bytes 
+
+[2026-04-16 13:03:23.346641] [gNB 0][ 949. 1] UE 1244: LCID 4: 10613 bytes , total DL buffer size (For all LCIDs): 10613 bytes 
+
+[2026-04-16 13:03:23.347141] [gNB 0][ 949. 2] UE 1244: LCID 4: 3852 bytes , total DL buffer size (For all LCIDs): 3852 bytes 
+
+[2026-04-16 13:03:23.376694] [gNB 0][ 952. 1] UE 1244: LCID 4: 1397 bytes , total DL buffer size (For all LCIDs): 1397 bytes 
+
+[2026-04-16 13:03:23.377199] [gNB 0][ 952. 2] UE 1244: LCID 4: 10545 bytes , total DL buffer size (For all LCIDs): 10545 bytes 
+
+[2026-04-16 13:03:23.377719] [gNB 0][ 952. 3] UE 1244: LCID 4: 3781 bytes , total DL buffer size (For all LCIDs): 3781 bytes 
+
+[2026-04-16 13:03:23.411207] [gNB 0][ 955.10] UE 1244: LCID 4: 5472 bytes , total DL buffer size (For all LCIDs): 5472 bytes 
+
+[2026-04-16 13:03:23.443628] [gNB 0][ 958.15] UE 1244: LCID 4: 8278 bytes , total DL buffer size (For all LCIDs): 8278 bytes 
+
+[2026-04-16 13:03:23.444195] [gNB 0][ 958.16] UE 1244: LCID 4: 1520 bytes , total DL buffer size (For all LCIDs): 1520 bytes 
+
